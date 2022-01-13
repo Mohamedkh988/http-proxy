@@ -10,11 +10,6 @@
 * Write a request to test
 ```
 telnet localhost 18888
-```
-Example:
-```
-GET http://eng.alexu.edu.eg/ HTTP/1.0\r\n\r\n
-```
-<b>N.B.</b> You should get a response of the source code of the the page your requested in the telnet terminal 
+
 
 
